@@ -11,4 +11,4 @@ Everything is server synced between players
 
 Admin reset command: /resetvangelico
 
-https://tebex.highdevelopment.eu for more content.
+https://high.tebex.io for more content.
